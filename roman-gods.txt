@@ -1,0 +1,13 @@
+jupiter
+juno
+neptune
+pluto
+venus
+mars
+diana
+minerva
+vulcan
+vesta
+mercury
+ceres
+bacchus
